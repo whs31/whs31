@@ -27,11 +27,8 @@
     ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
     <h2 align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=whs31&show_icons=true&layout=compact&theme=tokyonight" alt="cmake_badge"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whs31&hide_progress=false&layout=donut-vertical&langs_count=12&theme=tokyonight" alt="cmake_badge"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=whs31&show_icons=true&layout=compact&theme=tokyonight" alt="cmake_badge"/><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whs31&hide_progress=false&layout=donut-vertical&langs_count=12&theme=tokyonight" alt="cmake_badge"/><br>
+        <img src="https://leetcard.jacoblin.cool/whs31" alt="cmake_badge"/>
     </h2>
 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whs31&hide_progress=false&layout=compact&langs_count=8&theme=tokyonight)
-<h2 align="center">
-<img src="https://leetcard.jacoblin.cool/whs31" alt="cmake_badge"/>
-</h2>
