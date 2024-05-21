@@ -6,7 +6,9 @@
 
 - 📌 **Saint-Petersburg, Russia**
 
-- :phone: **My contacts:** [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/twentyeightlosestreak) [![Linkedin](https://img.shields.io/badge/Linkedin-red?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/whs31)
+- :phone: **My contacts:**
+
+    [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/twentyeightlosestreak) [![Linkedin](https://img.shields.io/badge/Linkedin-red?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/whs31)
 
 - :mortar_board: **My stack:**<br>
 
