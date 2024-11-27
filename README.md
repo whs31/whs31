@@ -2,9 +2,7 @@
 
 ![](header.png)
 
-- :computer: **Backend developer** at *Radar-MMS, St. Petersburg*
-
-- 📌 **Saint-Petersburg, Russia**
+- :computer: **Backend developer** 
 
 - :phone: **My contacts:**
 
